@@ -38,7 +38,7 @@
         </div>
         <div class="text-lg max-w-prose mx-auto">
         <h1>
-            <span class="block pt-16 text-base text-center text-secondary font-semibold tracking-wide uppercase">Es apto para todo tipo de persona</span>
+            <span class="block pt-16 text-base text-center text-secondary font-semibold tracking-wide uppercase">Es apto para todo tipo de personas</span>
             <span class="mt-2 block text-3xl text-center leading-8 font-extrabold tracking-tight text-gray-900 sm:text-4xl">Recomendado para:</span>
         </h1>
         <p class="mt-8 text-xl text-gray-500 leading-8">
