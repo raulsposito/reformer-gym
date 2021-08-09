@@ -17,15 +17,15 @@
             <!-- Testimonial card-->
             <div class="relative pt-64 pb-10 rounded-2xl shadow-xl overflow-hidden">
             <img class="absolute inset-0 h-full w-full object-cover" :src="img" alt="Quote">
-            <div class="absolute inset-0 bg-indigo-500 mix-blend-multiply"></div>
-            <div class="absolute inset-0 bg-gradient-to-t from-indigo-600 via-indigo-600 opacity-90"></div>
+            <div class="absolute inset-0 bg-primary mix-blend-multiply"></div>
+            <div class="absolute inset-0 bg-gradient-to-t from-secondary via-secondary opacity-90"></div>
             <div class="relative px-8">
                 <!-- <div>
                 <img class="h-12" src="https://tailwindui.com/img/logos/workcation.svg?color=white" alt="Workcation">
                 </div> -->
                 <blockquote class="mt-8">
                 <div class="relative text-lg font-medium text-white md:flex-grow">
-                    <svg class="absolute top-0 left-0 transform -translate-x-3 -translate-y-2 h-8 w-8 text-indigo-400" fill="currentColor" viewBox="0 0 32 32" aria-hidden="true">
+                    <svg class="absolute top-0 left-0 transform -translate-x-3 -translate-y-2 h-8 w-8 text-secondary" fill="currentColor" viewBox="0 0 32 32" aria-hidden="true">
                     <path d="M9.352 4C4.456 7.456 1 13.12 1 19.36c0 5.088 3.072 8.064 6.624 8.064 3.36 0 5.856-2.688 5.856-5.856 0-3.168-2.208-5.472-5.088-5.472-.576 0-1.344.096-1.536.192.48-3.264 3.552-7.104 6.624-9.024L9.352 4zm16.512 0c-4.8 3.456-8.256 9.12-8.256 15.36 0 5.088 3.072 8.064 6.624 8.064 3.264 0 5.856-2.688 5.856-5.856 0-3.168-2.304-5.472-5.184-5.472-.576 0-1.248.096-1.44.192.48-3.264 3.456-7.104 6.528-9.024L25.864 4z" />
                     </svg>
                     <p class="relative">
@@ -34,7 +34,7 @@
                 </div>
 
                 <footer class="mt-4">
-                    <p class="text-base font-semibold text-indigo-200">Paula Lester, Pilates/Group Fitness Instructor and Manager of the Pilates Studio at Privé-Swiss Fitness.</p>
+                    <p class="text-base font-semibold text-primary">Paula Lester, Pilates/Group Fitness Instructor and Manager of the Pilates Studio at Privé-Swiss Fitness.</p>
                 </footer>
                 </blockquote>
             </div>
@@ -50,7 +50,7 @@
             </h2>
             <div class="mt-6 text-gray-500 space-y-6">
             <p class="text-lg">
-                Según <a href="https://pubmed.ncbi.nlm.nih.gov/30368346/" target="blank" class="text-base font-medium text-indigo-600">este estudio</a>, los ejercicios de reformador de Pilates realizados una vez por semana durante 10 semanas dieron como resultado una reducción del riesgo de caídas y mejoras significativas en el equilibrio estático y dinámico y la movilidad funcional en adultos de 65 años o más con riesgo de caídas. <a href="https://pubmed.ncbi.nlm.nih.gov/28167194/" target="blank" class="text-base font-medium text-indigo-600">Otro estudio</a> mostró que después de doce sesiones de Pilates con el equipo reformer, hubo mejoras en la fuerza de la espalda baja y los hombros.
+                Según <a href="https://pubmed.ncbi.nlm.nih.gov/30368346/" target="blank" class="text-base font-medium text-secondary">este estudio</a>, los ejercicios de reformador de Pilates realizados una vez por semana durante 10 semanas dieron como resultado una reducción del riesgo de caídas y mejoras significativas en el equilibrio estático y dinámico y la movilidad funcional en adultos de 65 años o más con riesgo de caídas. <a href="https://pubmed.ncbi.nlm.nih.gov/28167194/" target="blank" class="text-base font-medium text-secondary">Otro estudio</a> mostró que después de doce sesiones de Pilates con el equipo reformer, hubo mejoras en la fuerza de la espalda baja y los hombros.
             </p>
             </div>
         </div>
@@ -79,7 +79,7 @@
             </div> -->
             </dl>
             <div class="mt-10">
-            <a href="https://www.nbcnews.com/better/lifestyle/reformer-pilates-what-it-who-it-s-best-how-do-ncna1094436" target="blank" class="text-base font-medium text-indigo-600"> Aprende mas sobre lo que el mundo dice de Pilates Reformer <span aria-hidden="true">&rarr;</span> </a>
+            <a href="https://www.nbcnews.com/better/lifestyle/reformer-pilates-what-it-who-it-s-best-how-do-ncna1094436" target="blank" class="text-base font-medium text-secondary"> Aprende mas sobre lo que el mundo dice de Pilates Reformer <span aria-hidden="true">&rarr;</span> </a>
             </div>
         </div>
         </div>

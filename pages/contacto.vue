@@ -7,7 +7,7 @@
         <div class="bg-gray-50 py-16 px-4 sm:px-6 lg:col-span-2 lg:px-8 lg:py-24 xl:pr-12">
         <div class="max-w-lg mx-auto">
             <h2 class="text-2xl font-extrabold tracking-tight text-gray-900 sm:text-3xl">
-            Get in touch
+            Contacto
             </h2>
             <p class="mt-3 text-lg leading-6 text-gray-500">
             Nullam risus blandit ac aliquam justo ipsum. Quam mauris volutpat massa dictumst amet. Sapien tortor lacus arcu.

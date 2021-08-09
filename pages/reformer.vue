@@ -31,14 +31,14 @@
     <div class="relative px-4 sm:px-6 lg:px-8">
         <div class="text-lg max-w-prose mx-auto">
         <h1>
-            <span class="block text-base text-center text-indigo-600 font-semibold tracking-wide uppercase">Que es?</span>
+            <span class="block text-base text-center text-secondary font-semibold tracking-wide uppercase">Que es?</span>
             <span class="mt-2 block text-3xl text-center leading-8 font-extrabold tracking-tight text-gray-900 sm:text-4xl">Pilates Reformer</span>
         </h1>
         <p class="mt-8 text-xl text-gray-500 leading-8">Este ejercicio para todo el cuerpo recluta todas las fibras musculares, lo que conduce a un núcleo más fuerte. Ayuda con la estabilidad y el equilibrio de las articulaciones y fortalece los abdominales, glúteos e isquiotibiales. Estos sostienen la columna y alargan los flexores de la cadera, lo que aumenta la flexibilidad y mejora la postura.</p>
         </div>
         <div class="text-lg max-w-prose mx-auto">
         <h1>
-            <span class="block pt-16 text-base text-center text-indigo-600 font-semibold tracking-wide uppercase">Es apto para todo tipo de persona</span>
+            <span class="block pt-16 text-base text-center text-secondary font-semibold tracking-wide uppercase">Es apto para todo tipo de persona</span>
             <span class="mt-2 block text-3xl text-center leading-8 font-extrabold tracking-tight text-gray-900 sm:text-4xl">Recomendado para:</span>
         </h1>
         <p class="mt-8 text-xl text-gray-500 leading-8">
