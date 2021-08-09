@@ -3,6 +3,7 @@
     <Hero />
     <Facts />
     <Carousel />
+    <Helps />
     <UnderCarousel />
   </div>
 </template>

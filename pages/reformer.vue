@@ -1,20 +1,4 @@
 <template>
-    <!--
-    This example requires Tailwind CSS v2.0+ 
-    
-    This example requires some changes to your config:
-    
-    ```
-    // tailwind.config.js
-    module.exports = {
-        // ...
-        plugins: [
-        // ...
-        require('@tailwindcss/typography'),
-        ]
-    }
-    ```
-    -->
     <div class="relative py-16 bg-white overflow-hidden">
     <div class="hidden lg:block lg:absolute lg:inset-y-0 lg:h-full lg:w-full">
         <div class="relative h-full text-lg max-w-prose mx-auto" aria-hidden="true">
@@ -52,16 +36,22 @@
         </h1>
         <p class="mt-8 text-xl text-gray-500 leading-8">Este ejercicio para todo el cuerpo recluta todas las fibras musculares, lo que conduce a un núcleo más fuerte. Ayuda con la estabilidad y el equilibrio de las articulaciones y fortalece los abdominales, glúteos e isquiotibiales. Estos sostienen la columna y alargan los flexores de la cadera, lo que aumenta la flexibilidad y mejora la postura.</p>
         </div>
+        <div class="text-lg max-w-prose mx-auto">
+        <h1>
+            <span class="block pt-16 text-base text-center text-indigo-600 font-semibold tracking-wide uppercase">Es apto para todo tipo de persona</span>
+            <span class="mt-2 block text-3xl text-center leading-8 font-extrabold tracking-tight text-gray-900 sm:text-4xl">Recomendado para:</span>
+        </h1>
+        <p class="mt-8 text-xl text-gray-500 leading-8">
+            <ul>
+                <li>* Personas con dolencias de espalda o postura.</li>
+                <li>* Personas con movilidad reducida.</li>
+                <li>* Deportistas con lesiones.</li>
+            </ul>
+        </p>
+        </div>
         <div class="mt-16 prose prose-indigo prose-lg text-gray-500 mx-auto">
-        <!-- <p>Es apto para todo tipo de persona y recomendado para:</p>
-        <ul>
-            <li>* Personas con dolencias de espalda o postura.</li>
-            <li>* Personas con movilidad reducida.</li>
-            <li>* Deportistas con lesiones.</li>
-        </ul>
-        <p class="pt-6">Todos los ejercicios de Pilates, independientemente de que se realicen sobre una colchoneta o con aparatos como el reformador, buscan alcanzar el mismo objetivo fundamental, que es desarrollar una completa coordinación de la mente y el cuerpo.</p> -->
         <figure>
-            <img class="w-full rounded-lg pt-12" :src="img" alt="" width="1310" height="873">
+            <img class="w-full max-h-screen object-cover rounded-lg pt-8" :src="img" alt="Nuestro Gimnasio">
             <figcaption>Conoce nuestro gimnasio personalizado en Solymar.</figcaption>
         </figure>
         </div>

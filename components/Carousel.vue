@@ -11,8 +11,8 @@
                 :navigation-enabled="false"
                 :autoplay="true"
                 :loop="true"
-                :speed="1000"
-                :autoplay-timeout="10000"
+                :speed="2000"
+                :autoplay-timeout="9000"
             >
                 <slide
                 v-for="(place, index) in places"
@@ -67,30 +67,6 @@ export default {
           index: 1,
           image_url: require('../assests/1.jpg'),
         },
-        {
-          index: 2,
-          image_url: require('../assests/3.jpg'),
-        },
-        // {
-        //   index: 3,
-        //   image_url: require('../assests/4.jpg'),
-        // },
-        {
-          index: 4,
-          image_url: require('../assests/5.jpg'),
-        },
-        {
-          index: 5,
-          image_url: require('../assests/6.jpg'),
-        },
-        // {
-        //   index: 6,
-        //   image_url: require('../assests/7.jpg'),
-        // },
-        // {
-        //   index: 7,
-        //   image_url: require('../assests/8.jpg'),
-        // },
       ],
     }
   },
